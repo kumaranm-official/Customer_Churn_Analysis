@@ -109,7 +109,7 @@ Three targeted business questions answered:
 
 ---
 
-## ▶How to Run
+## How to Run
 
 ```bash
 # Clone the repository
